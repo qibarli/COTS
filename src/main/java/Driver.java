@@ -6,7 +6,7 @@ public class Driver {
 		
 		Tally tally = new Tally();
 		
-		System.out.println("Count:" + tally.getTotal());
+		System.out.println("Count result:" + tally.getTotal());
 		
 		tally.add();
 		
