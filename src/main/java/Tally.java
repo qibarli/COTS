@@ -9,7 +9,7 @@ public class Tally {
 	}
 		
 	public void initialize() {
-		total = 0;
+		total = 5;
 	}
 	
 	public void add() {
